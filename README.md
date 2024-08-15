@@ -1,50 +1,58 @@
-# Welcome to your Expo app 👋
+# 📋 Table of Contents
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+- [🤖 Introduction](#-introduction)
+- [⚙️ Tech Stack](#-tech-stack)
+- [🔋 Features](#-features)
+- [🤸 Quick Start](#-quick-start)
+- [🕸️ Snippets](#️-snippets)
+- [🔗 Links](#-links)
+- [🚀 More](#-more)
+- [🚨 Tutorial](#-tutorial)
 
-## Get started
+## 🤖 Introduction
 
-1. Install dependencies
+Built with **React Native** for seamless user experiences, **Animatable** for captivating animations, and integrated with the dependable backend systems of **Appwrite**, this app showcases impressive design and functionality, enabling seamless sharing of AI videos within the community.
 
-   ```bash
-   npm install
-   ```
+If you're getting started and need assistance or face any bugs, join our active [Discord community](#) with over 27k+ members. It's a place where people help each other out.
 
-2. Start the app
+## ⚙️ Tech Stack
 
-   ```bash
-    npx expo start
-   ```
+- React Native
+- Expo
+- Nativewind
+- Animatable
+- Appwrite
 
-In the output, you'll find options to open the app in a
+## 🔋 Features
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **Onboarding Screen**: Engaging graphics and clear instructions welcome users to the app.
+- **Robust Authentication & Authorization System**: Secure email login safeguards user accounts.
+- **Dynamic Home Screen with Animated Flat List**: Smoothly animated flat list showcases the latest videos for seamless browsing.
+- **Pull-to-Refresh Functionality**: Users can refresh content with a simple pull gesture for up-to-date information.
+- **Full-Text Search Capability**: Efficiently search through videos with real-time suggestions and instant results.
+- **Tab Navigation**: Navigate between sections like Home, Search, and Profile with ease using tab navigation.
+- **Post Creation Screen for Uploading Media**: Upload video and image posts directly from the app with integrated media selection.
+- **Profile Screen with Detailed Insights**: View account details and activity, including uploaded videos and follower count, for a personalized experience.
+- **Responsiveness**: Smooth performance and adaptability across various devices and screen sizes for a consistent user experience.
+- **Animations**: Dynamic animations using the Animatable library to enhance user interaction and engagement throughout the app's UI.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+…and many more, including code architecture and reusability.
 
-## Get a fresh project
+## 🤸 Quick Start
 
-When you're ready, run:
+Follow these steps to set up the project locally on your machine.
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- Git
+- Node.js
+- npm (Node Package Manager)
+
+### Cloning the Repository
 
 ```bash
-npm run reset-project
+git clone https://github.com/adrianhajdin/aora.git
+cd aora
 ```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
