@@ -56,3 +56,21 @@ Make sure you have the following installed on your machine:
 git clone https://github.com/adrianhajdin/aora.git
 cd aora
 ```
+
+### Installation
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+### Running Project
+
+```bash
+npm start
+```
+
+### Expo Go
+
+Download the Expo Go app onto your device, then use it to scan the QR code from Terminal and run.
