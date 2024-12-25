@@ -72,3 +72,7 @@ npm start
 ### Expo Go
 
 Download the Expo Go app onto your device, then use it to scan the QR code from Terminal and run.
+
+## Credits
+
+This project was developed following a tutorial by [Adrian Hajdin - JS Mastery](https://github.com/adrianhajdin). You can find the original tutorial [here](https://www.youtube.com/watch?v=ZBCUegTZF7M).
